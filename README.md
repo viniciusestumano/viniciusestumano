@@ -1,4 +1,4 @@
-### Oi! Sou o Vinícius Estumano, o carinha dos programinhas sempre em aprendizado!
+### Oi! Sou o Estumano, o carinha dos programinhas sempre em aprendizado!
 
 - 🔭 Certificado em front-end
 - 🌱 Estudando Typescript, Prisma e Jest
