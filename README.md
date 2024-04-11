@@ -1,7 +1,7 @@
 ### Oi! Sou o Estumano, o carinha dos programinhas sempre em aprendizado!
 
 - 🔭 Certificado em front-end
-- 🌱 Estudando Typescript, Prisma e Jest
+- 🌱 Estudando Python 
 - 📫 Entre em contato no meu email: vsestumano@gmail.com
 <div>
   <p></p>
