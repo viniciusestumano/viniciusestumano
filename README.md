@@ -1,7 +1,6 @@
 ### Oi! Sou o Estumano, o carinha dos programinhas sempre em aprendizado!
 
-- 🔭 Desenvolvedor front-end
-- 🌱 Estudando Python 
+- 🔭 Desenvolvedor front-end 
 - 📫 Entre em contato no meu email: vsestumano@gmail.com
 <div>
   <p></p>
